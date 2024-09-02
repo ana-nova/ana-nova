@@ -11,6 +11,12 @@
 - 🎯 In the near future I plan to ...
 - ⚡️ Fun fact: I have two cats & love black tea 🐈 🫖
 
-___ 
-### Contact
-📫 [LinkedIn](https://www.linkedin.com/in/ana-yurtanova-768a68320)
+---
+### My Technologies & Tools
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+
