@@ -7,7 +7,6 @@
 
 - 🔭 I'm currently studying web development & working on something cool
 - 🚀 I worked as an UX designer for 2 years
-- 🧳 I studied Medieninformatik
 - 🎯 In the near future I plan to ...
 - ⚡️ Fun fact: I have two cats & love black tea 🐈 🫖
 
