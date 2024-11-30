@@ -1,7 +1,9 @@
 ## How you doin'? 
 
 I’ve recently completed a comprehensive ✨web development✨ bootcamp, where I refined my skills in building engaging and responsive websites and apps.
+
 With a strong focus on React, Next.js, MongoDB, and API integration, I combine my background in UX design with my development expertise to craft intuitive user interfaces and seamless user experiences. 🧠
+
 Excited to keep growing as a developer and bringing innovative ideas to life! 🚀
 
 ---
