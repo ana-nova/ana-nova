@@ -1,4 +1,4 @@
-## How you doin'? 
+## How you doin'? 🌸
 
 I’ve recently completed a comprehensive ✨web development✨ bootcamp, where I refined my skills in building engaging and responsive websites and apps.
 
@@ -7,7 +7,7 @@ With a strong focus on React, Next.js, MongoDB, and API integration, I combine m
 Excited to keep growing as a developer and bringing innovative ideas to life! 🚀
 
 ---
-### My Technical Skills
+### My Technical Skills 👩‍💻
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -25,7 +25,7 @@ Excited to keep growing as a developer and bringing innovative ideas to life! �
 ![Styled-Components](https://img.shields.io/badge/Styled--Components-DB7093?logo=styled-components&logoColor=white)
 
 
-### My Design Skills
+### My Design Skills 💅
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?logo=adobe-xd&logoColor=white)
@@ -41,7 +41,7 @@ Excited to keep growing as a developer and bringing innovative ideas to life! �
 
 ---
 
-### My Projects
+### My Projects 👀
 
 **🌻 Guardians of the Garden**
 
