@@ -1,8 +1,3 @@
-## How you doin'? 🌸
-
-I’ve recently completed a comprehensive ✨web development✨ bootcamp, where I refined my skills in building engaging and responsive websites and apps.
-
----
 ### My Technical Skills 👩‍💻
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
